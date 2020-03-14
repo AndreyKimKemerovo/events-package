@@ -1,0 +1,19 @@
+{
+    "name": "andreykim/events",
+    "description": "share events between apps",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kim",
+            "email": "andreykimkemerovo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Andreykim\\Events\\": "src/"
+        }
+    }
+}
